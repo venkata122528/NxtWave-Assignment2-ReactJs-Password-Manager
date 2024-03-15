@@ -1,0 +1,39 @@
+.dataInputCard {
+  height: 45%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #7683cb;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  width: 100%;
+}
+
+.userDetailsForm {
+  background-color: #454f84;
+  width: 30%;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.title {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.websiteInputContainer {
+  height: 10%;
+}
+
+.logos {
+  height: 100%;
+}
+
+.userLoginImage {
+  height: 100%;
+}
+
+.addButtonContainer {
+  margin-top: 15px;
+}

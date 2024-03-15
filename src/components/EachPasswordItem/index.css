@@ -1,0 +1,24 @@
+.eachPasswordItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 30%;
+  margin: 10px;
+}
+
+.nameLogo {
+  align-self: center;
+}
+
+.starsImage {
+  width: 50%;
+}
+
+.deleteButton {
+  border-style: none;
+  background-color: transparent;
+}
+
+.deleteImage {
+  height: 40%;
+}

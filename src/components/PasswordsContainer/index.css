@@ -1,0 +1,54 @@
+.passWordsCardContainer {
+  background-color: #7683cb;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 15px;
+  width: 100%;
+}
+
+.titleSearchBarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.searchImageLogo {
+  height: 40%;
+  align-self: flex-end;
+}
+
+.titleCountContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.passwordsTitle {
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+
+.checkBoxContainer {
+  text-align: end;
+}
+
+.passwordsDataContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  overflow-y: scroll;
+}
+
+.noPasswordContainer {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.noPasswordsImage {
+  height: 200px;
+}
